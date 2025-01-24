@@ -51,7 +51,10 @@ A common UI pattern is to show an active link to indicate to the user what page 
 Since usePathname() is a hook, you'll need to turn nav-links.tsx into a Client Component. Add React's "use client" directive to the top of the file, then import usePathname() from next/navigation:
 
 ```
+What is 'seeding' in the context of databases?
 
+Populating the database with an initial set of data
+That's right! Seeding is useful when you want to have some data to work with as you build your application
 
 
 ```
